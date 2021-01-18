@@ -7,17 +7,12 @@
     {
       "channel": "twitter",
       "handle": "smolcomrade",
-      "link_text": "smolcomrade"
+      "link_text": "twitter"
     },
     {
       "channel": "instagram",
-      "handle": "its.nwa",
-      "link_text": "ig"
-    },
-    {
-      "channel": "github",
-      "handle": "itsnwa",
-      "link_text": "gh"
+      "handle": "smolcomrade",
+      "link_text": "instagram"
     }
   ]
 }
