@@ -1,6 +1,6 @@
 ---
-title: "° Jupiter Calendar"
-thumbnail: "../static/uploads/827e4260883469.5a5cccc989703.jpg"
+title: Jupiter Calendar
+thumbnail: "../static/uploads/e9e36060883469.5a5cccc987050.jpg"
 year: "2018"
 categories:
 - graphic
